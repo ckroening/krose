@@ -23,9 +23,8 @@ he failed and then he cried about it
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Belle](https://kierstinrose.github.com/krose/belle.jpg)
 ```
-
+![Image](https://kierstinrose.github.com/krose/belle.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
