@@ -22,9 +22,9 @@ he failed and then he cried about it
 2.boo boo 
 
 **Bold** and _Italic_ and `Code` text
-
+![Image](/belle.jpg)
 ```
-![Image](/krose/belle.jpg)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
